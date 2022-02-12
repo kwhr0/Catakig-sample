@@ -1,0 +1,7 @@
+*.map
+*.d
+*.lst
+*.o
+*.s
+a.out
+depend_tmp
